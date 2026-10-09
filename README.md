@@ -21,7 +21,7 @@ Both visuals contain the same fictional annual sales data. The redesign changes 
 
 The ranked bars reveal the finding immediately: **Electronics and Furniture lead sales, and the top five categories contribute 64% of total revenue.**
 
-[View the complete case study](case-studies/15-categories-pie-chart/) · [Read the published article](https://arkaisllc.com/articles/15-categories-pie-chart-sales-data/)
+[View the complete case study](case-studies/15-categories-pie-chart/README.md) · [Read the published article](https://arkaisllc.com/articles/15-categories-pie-chart-sales-data/)
 
 ## What an EVI review examines
 

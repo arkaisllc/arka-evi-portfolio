@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://arkaisllc.github.io/arka-evi-portfolio/sitemap.xml

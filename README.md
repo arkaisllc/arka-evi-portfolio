@@ -4,7 +4,7 @@
 
 This portfolio presents reporting and dashboard redesigns from [Arka Integrated Solutions](https://arkaisllc.com/). Each case study starts with the decision a reader needs to make, examines the work the current report asks them to do, and shows how structure, visual choice, labeling, and emphasis can make the answer easier to understand.
 
-[Explore Enterprise Visual Intelligence](https://arkaisllc.com/enterprise-visual-intelligence/) · [Read Arka's articles](https://arkaisllc.com/#articles) · [Request an EVI report review](mailto:info@arkaisllc.com?subject=EVI%20Report%20Review)
+[View the public portfolio](https://arkaisllc.github.io/arka-evi-portfolio/) · [Explore Enterprise Visual Intelligence](https://arkaisllc.com/enterprise-visual-intelligence/) · [Request an EVI report review](mailto:info@arkaisllc.com?subject=EVI%20Report%20Review)
 
 ## Featured case study
 

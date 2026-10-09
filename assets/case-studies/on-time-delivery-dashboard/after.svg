@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+<title id="title">After: focused on-time delivery dashboard</title><desc id="desc">A decision-ready operations dashboard shows the deteriorating OTIF trend, target gap, ranked exception causes, and the first action to investigate.</desc>
+<rect width="1200" height="760" fill="#FBFAF7"/>
+<rect width="1200" height="88" fill="#202744"/>
+<text x="42" y="34" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#DDAA3D" text-anchor="start" opacity="1">ARKA  /  EVI</text>
+<text x="42" y="65" font-family="Arial, sans-serif" font-size="24" font-weight="600" fill="white" text-anchor="start" opacity="1">Delivery performance</text>
+<text x="1156" y="52" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#C7CDDA" text-anchor="end" opacity="1">H1 · Illustrative</text>
+<text x="42" y="134" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#182033" text-anchor="start" opacity="1">On-time delivery fell 4.6 points; two causes drive 61% of exceptions</text>
+<text x="42" y="164" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#69738A" text-anchor="start" opacity="1">Carrier capacity and picking delays are the first intervention points.</text>
+<rect x="42" y="196" width="212" height="104" rx="10" fill="#FFFFFF" stroke="#DCE1E8" stroke-width="1"/>
+<text x="60" y="223" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#69738A" text-anchor="start" opacity="1">JUNE OTIF</text>
+<text x="60" y="262" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#182033" text-anchor="start" opacity="1">89.6%</text>
+<text x="60" y="285" font-family="Arial, sans-serif" font-size="13" font-weight="600" fill="#B65353" text-anchor="start" opacity="1">5.4 pts below target</text>
+<rect x="274" y="196" width="212" height="104" rx="10" fill="#FFFFFF" stroke="#DCE1E8" stroke-width="1"/>
+<text x="292" y="223" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#69738A" text-anchor="start" opacity="1">SIX-MONTH CHANGE</text>
+<text x="292" y="262" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#182033" text-anchor="start" opacity="1">-4.6 pts</text>
+<text x="292" y="285" font-family="Arial, sans-serif" font-size="13" font-weight="500" fill="#69738A" text-anchor="start" opacity="1">Jan to Jun</text>
+<rect x="506" y="196" width="652" height="104" rx="10" fill="#FFF7E2" stroke="#E8D8A8" stroke-width="1"/>
+<text x="526" y="223" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#B4740F" text-anchor="start" opacity="1">ACTION</text>
+<text x="526" y="252" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#182033" text-anchor="start" opacity="1">Review West carrier capacity and warehouse picking windows</text>
+<text x="526" y="278" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#69738A" text-anchor="start" opacity="1">Together, the top two causes represent 61% of recorded exceptions.</text>
+<rect x="42" y="326" width="654" height="378" rx="12" fill="#FFFFFF" stroke="#DCE1E8" stroke-width="1"/>
+<text x="64" y="360" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#182033" text-anchor="start" opacity="1">OTIF trend</text>
+<text x="674" y="360" font-family="Arial, sans-serif" font-size="12" font-weight="500" fill="#69738A" text-anchor="end" opacity="1">Target 95%</text>
+<line x1="92" y1="630.0" x2="658" y2="630.0" stroke="#E8EBF0" stroke-width="1"/>
+<text x="80" y="634.0" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#69738A" text-anchor="end" opacity="1">88%</text>
+<line x1="92" y1="575.5" x2="658" y2="575.5" stroke="#E8EBF0" stroke-width="1"/>
+<text x="80" y="579.5" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#69738A" text-anchor="end" opacity="1">90%</text>
+<line x1="92" y1="521.0" x2="658" y2="521.0" stroke="#E8EBF0" stroke-width="1"/>
+<text x="80" y="525.0" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#69738A" text-anchor="end" opacity="1">92%</text>
+<line x1="92" y1="466.5" x2="658" y2="466.5" stroke="#E8EBF0" stroke-width="1"/>
+<text x="80" y="470.5" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#69738A" text-anchor="end" opacity="1">94%</text>
+<line x1="92" y1="412.0" x2="658" y2="412.0" stroke="#E8EBF0" stroke-width="1"/>
+<text x="80" y="416.0" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#69738A" text-anchor="end" opacity="1">96%</text>
+<circle cx="92.0" cy="461.04999999999995" r="5" fill="#B65353" stroke="#B65353" stroke-width="1"/>
+<text x="92.0" y="660" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#69738A" text-anchor="middle" opacity="1">Jan</text>
+<circle cx="205.2" cy="471.95000000000005" r="5" fill="#B65353" stroke="#B65353" stroke-width="1"/>
+<text x="205.2" y="660" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#69738A" text-anchor="middle" opacity="1">Feb</text>
+<circle cx="318.4" cy="496.47499999999985" r="5" fill="#B65353" stroke="#B65353" stroke-width="1"/>
+<text x="318.4" y="660" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#69738A" text-anchor="middle" opacity="1">Mar</text>
+<circle cx="431.6" cy="529.175" r="5" fill="#B65353" stroke="#B65353" stroke-width="1"/>
+<text x="431.6" y="660" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#69738A" text-anchor="middle" opacity="1">Apr</text>
+<circle cx="544.8" cy="553.7" r="5" fill="#B65353" stroke="#B65353" stroke-width="1"/>
+<text x="544.8" y="660" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#69738A" text-anchor="middle" opacity="1">May</text>
+<circle cx="658.0" cy="586.4000000000002" r="5" fill="#B65353" stroke="#B65353" stroke-width="1"/>
+<text x="658.0" y="660" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#69738A" text-anchor="middle" opacity="1">Jun</text>
+<line x1="92" y1="439.25" x2="658" y2="439.25" stroke="#8D96A6" stroke-width="2" stroke-dasharray="7 6"/>
+<polyline points="92.0,461.0 205.2,472.0 318.4,496.5 431.6,529.2 544.8,553.7 658.0,586.4" fill="none" stroke="#B65353" stroke-width="4"/>
+<text x="658" y="431.25" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#69738A" text-anchor="end" opacity="1">95%</text>
+<rect x="720" y="326" width="438" height="378" rx="12" fill="#FFFFFF" stroke="#DCE1E8" stroke-width="1"/>
+<text x="742" y="360" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#182033" text-anchor="start" opacity="1">Exception causes</text>
+<text x="1136" y="360" font-family="Arial, sans-serif" font-size="11" font-weight="500" fill="#69738A" text-anchor="end" opacity="1">share</text>
+<text x="742" y="423" font-family="Arial, sans-serif" font-size="13" font-weight="500" fill="#182033" text-anchor="start" opacity="1">Carrier capacity</text>
+<rect x="890" y="408" width="210" height="20" rx="3" fill="#F0F2F5" stroke="#F0F2F5" stroke-width="1"/>
+<rect x="890" y="408" width="210.0" height="20" rx="3" fill="#B4740F" stroke="#B4740F" stroke-width="1"/>
+<text x="1132" y="423" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#182033" text-anchor="end" opacity="1">34%</text>
+<text x="742" y="475" font-family="Arial, sans-serif" font-size="13" font-weight="500" fill="#182033" text-anchor="start" opacity="1">Picking delay</text>
+<rect x="890" y="460" width="210" height="20" rx="3" fill="#F0F2F5" stroke="#F0F2F5" stroke-width="1"/>
+<rect x="890" y="460" width="166.76470588235293" height="20" rx="3" fill="#B4740F" stroke="#B4740F" stroke-width="1"/>
+<text x="1132" y="475" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#182033" text-anchor="end" opacity="1">27%</text>
+<text x="742" y="527" font-family="Arial, sans-serif" font-size="13" font-weight="500" fill="#182033" text-anchor="start" opacity="1">Inventory shortfall</text>
+<rect x="890" y="512" width="210" height="20" rx="3" fill="#F0F2F5" stroke="#F0F2F5" stroke-width="1"/>
+<rect x="890" y="512" width="129.7058823529412" height="20" rx="3" fill="#B4740F" stroke="#B4740F" stroke-width="1"/>
+<text x="1132" y="527" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#182033" text-anchor="end" opacity="1">21%</text>
+<text x="742" y="579" font-family="Arial, sans-serif" font-size="13" font-weight="500" fill="#182033" text-anchor="start" opacity="1">Address issues</text>
+<rect x="890" y="564" width="210" height="20" rx="3" fill="#F0F2F5" stroke="#F0F2F5" stroke-width="1"/>
+<rect x="890" y="564" width="61.76470588235294" height="20" rx="3" fill="#B4740F" stroke="#B4740F" stroke-width="1"/>
+<text x="1132" y="579" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#182033" text-anchor="end" opacity="1">10%</text>
+<text x="742" y="631" font-family="Arial, sans-serif" font-size="13" font-weight="500" fill="#182033" text-anchor="start" opacity="1">Weather</text>
+<rect x="890" y="616" width="210" height="20" rx="3" fill="#F0F2F5" stroke="#F0F2F5" stroke-width="1"/>
+<rect x="890" y="616" width="49.411764705882355" height="20" rx="3" fill="#B4740F" stroke="#B4740F" stroke-width="1"/>
+<text x="1132" y="631" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#182033" text-anchor="end" opacity="1">8%</text>
+<line x1="742" y1="672" x2="1134" y2="672" stroke="#ECEFF3" stroke-width="1"/>
+<text x="742" y="692" font-family="Arial, sans-serif" font-size="13" font-weight="600" fill="#69738A" text-anchor="start" opacity="1">Top two causes</text>
+<text x="1134" y="692" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#B4740F" text-anchor="end" opacity="1">61%</text>
+</svg>

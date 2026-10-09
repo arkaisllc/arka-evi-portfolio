@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+<title id="title">After: optimized P and L variance report</title><desc id="desc">A concise executive P and L report emphasizes actual versus budget, operating margin, the major drivers, and the priority response.</desc>
+<rect width="1200" height="760" fill="#FBFAF7"/>
+<rect width="1200" height="88" fill="#202744"/>
+<text x="42" y="34" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#DDAA3D" text-anchor="start" opacity="1">ARKA  /  EVI</text>
+<text x="42" y="65" font-family="Arial, sans-serif" font-size="24" font-weight="600" fill="white" text-anchor="start" opacity="1">P&amp;L performance</text>
+<text x="1156" y="52" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#C7CDDA" text-anchor="end" opacity="1">H1 · Illustrative</text>
+<text x="42" y="134" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#182033" text-anchor="start" opacity="1">Operating income is $0.57M below budget</text>
+<text x="42" y="164" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#69738A" text-anchor="start" opacity="1">Lower revenue and higher operating costs combine to reduce profit.</text>
+<rect x="42" y="196" width="716" height="500" rx="12" fill="#FFFFFF" stroke="#DCE1E8" stroke-width="1"/>
+<text x="64" y="232" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#182033" text-anchor="start" opacity="1">Executive P&amp;L summary</text>
+<text x="430" y="270" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#69738A" text-anchor="end" opacity="1">ACTUAL</text>
+<text x="545" y="270" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#69738A" text-anchor="end" opacity="1">BUDGET</text>
+<text x="682" y="270" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#69738A" text-anchor="end" opacity="1">VARIANCE</text>
+<text x="70" y="312" font-family="Arial, sans-serif" font-size="15" font-weight="500" fill="#182033" text-anchor="start" opacity="1">Revenue</text>
+<text x="430" y="312" font-family="Arial, sans-serif" font-size="15" font-weight="500" fill="#182033" text-anchor="end" opacity="1">$8.42M</text>
+<text x="545" y="312" font-family="Arial, sans-serif" font-size="15" font-weight="500" fill="#69738A" text-anchor="end" opacity="1">$8.75M</text>
+<text x="682" y="312" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#B65353" text-anchor="end" opacity="1">-$0.33M</text>
+<line x1="70" y1="338" x2="724" y2="338" stroke="#ECEFF3" stroke-width="1"/>
+<text x="70" y="379" font-family="Arial, sans-serif" font-size="15" font-weight="500" fill="#182033" text-anchor="start" opacity="1">Cost of goods sold</text>
+<text x="430" y="379" font-family="Arial, sans-serif" font-size="15" font-weight="500" fill="#182033" text-anchor="end" opacity="1">$-5.01M</text>
+<text x="545" y="379" font-family="Arial, sans-serif" font-size="15" font-weight="500" fill="#69738A" text-anchor="end" opacity="1">$-4.90M</text>
+<text x="682" y="379" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#B65353" text-anchor="end" opacity="1">-$0.11M</text>
+<line x1="70" y1="405" x2="724" y2="405" stroke="#ECEFF3" stroke-width="1"/>
+<rect x="56" y="411" width="688" height="56" rx="6" fill="#F5F2E9"/>
+<text x="70" y="446" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#182033" text-anchor="start" opacity="1">Gross profit</text>
+<text x="430" y="446" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#182033" text-anchor="end" opacity="1">$3.41M</text>
+<text x="545" y="446" font-family="Arial, sans-serif" font-size="15" font-weight="500" fill="#69738A" text-anchor="end" opacity="1">$3.85M</text>
+<text x="682" y="446" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#B65353" text-anchor="end" opacity="1">-$0.44M</text>
+<line x1="70" y1="472" x2="724" y2="472" stroke="#ECEFF3" stroke-width="1"/>
+<text x="70" y="513" font-family="Arial, sans-serif" font-size="15" font-weight="500" fill="#182033" text-anchor="start" opacity="1">Operating expenses</text>
+<text x="430" y="513" font-family="Arial, sans-serif" font-size="15" font-weight="500" fill="#182033" text-anchor="end" opacity="1">$-2.58M</text>
+<text x="545" y="513" font-family="Arial, sans-serif" font-size="15" font-weight="500" fill="#69738A" text-anchor="end" opacity="1">$-2.45M</text>
+<text x="682" y="513" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#B65353" text-anchor="end" opacity="1">-$0.13M</text>
+<line x1="70" y1="539" x2="724" y2="539" stroke="#ECEFF3" stroke-width="1"/>
+<rect x="56" y="545" width="688" height="56" rx="6" fill="#F5F2E9"/>
+<text x="70" y="580" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#182033" text-anchor="start" opacity="1">Operating income</text>
+<text x="430" y="580" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#182033" text-anchor="end" opacity="1">$0.83M</text>
+<text x="545" y="580" font-family="Arial, sans-serif" font-size="15" font-weight="500" fill="#69738A" text-anchor="end" opacity="1">$1.40M</text>
+<text x="682" y="580" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#B65353" text-anchor="end" opacity="1">-$0.57M</text>
+<text x="70" y="663" font-family="Arial, sans-serif" font-size="13" font-weight="600" fill="#69738A" text-anchor="start" opacity="1">Operating margin</text>
+<text x="430" y="663" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#182033" text-anchor="end" opacity="1">9.9%</text>
+<text x="545" y="663" font-family="Arial, sans-serif" font-size="16" font-weight="500" fill="#69738A" text-anchor="end" opacity="1">16.0%</text>
+<text x="682" y="663" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#B65353" text-anchor="end" opacity="1">-6.1 pts</text>
+<rect x="782" y="196" width="376" height="500" rx="12" fill="#FFFFFF" stroke="#DCE1E8" stroke-width="1"/>
+<text x="804" y="232" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#182033" text-anchor="start" opacity="1">Variance drivers</text>
+<text x="1136" y="232" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#69738A" text-anchor="end" opacity="1">$ millions</text>
+<text x="804" y="291" font-family="Arial, sans-serif" font-size="13" font-weight="500" fill="#182033" text-anchor="start" opacity="1">Revenue</text>
+<rect x="900" y="276" width="175" height="20" rx="3" fill="#F0F2F5" stroke="#F0F2F5" stroke-width="1"/>
+<rect x="900" y="276" width="175.0" height="20" rx="3" fill="#B65353" stroke="#B65353" stroke-width="1"/>
+<text x="1128" y="291" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#B65353" text-anchor="end" opacity="1">-$0.33M</text>
+<text x="804" y="347" font-family="Arial, sans-serif" font-size="13" font-weight="500" fill="#182033" text-anchor="start" opacity="1">COGS</text>
+<rect x="900" y="332" width="175" height="20" rx="3" fill="#F0F2F5" stroke="#F0F2F5" stroke-width="1"/>
+<rect x="900" y="332" width="58.33333333333333" height="20" rx="3" fill="#B65353" stroke="#B65353" stroke-width="1"/>
+<text x="1128" y="347" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#B65353" text-anchor="end" opacity="1">-$0.11M</text>
+<text x="804" y="403" font-family="Arial, sans-serif" font-size="13" font-weight="500" fill="#182033" text-anchor="start" opacity="1">Payroll</text>
+<rect x="900" y="388" width="175" height="20" rx="3" fill="#F0F2F5" stroke="#F0F2F5" stroke-width="1"/>
+<rect x="900" y="388" width="32.878787878787875" height="20" rx="3" fill="#B65353" stroke="#B65353" stroke-width="1"/>
+<text x="1128" y="403" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#B65353" text-anchor="end" opacity="1">-$0.062M</text>
+<text x="804" y="459" font-family="Arial, sans-serif" font-size="13" font-weight="500" fill="#182033" text-anchor="start" opacity="1">Marketing</text>
+<rect x="900" y="444" width="175" height="20" rx="3" fill="#F0F2F5" stroke="#F0F2F5" stroke-width="1"/>
+<rect x="900" y="444" width="26.515151515151516" height="20" rx="3" fill="#B65353" stroke="#B65353" stroke-width="1"/>
+<text x="1128" y="459" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#B65353" text-anchor="end" opacity="1">-$0.05M</text>
+<text x="804" y="515" font-family="Arial, sans-serif" font-size="13" font-weight="500" fill="#182033" text-anchor="start" opacity="1">Technology</text>
+<rect x="900" y="500" width="175" height="20" rx="3" fill="#F0F2F5" stroke="#F0F2F5" stroke-width="1"/>
+<rect x="900" y="500" width="10.606060606060606" height="20" rx="3" fill="#B65353" stroke="#B65353" stroke-width="1"/>
+<text x="1128" y="515" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#B65353" text-anchor="end" opacity="1">-$0.02M</text>
+<text x="804" y="571" font-family="Arial, sans-serif" font-size="13" font-weight="500" fill="#182033" text-anchor="start" opacity="1">Other</text>
+<rect x="900" y="556" width="175" height="20" rx="3" fill="#F0F2F5" stroke="#F0F2F5" stroke-width="1"/>
+<rect x="900" y="556" width="1.0606060606060606" height="20" rx="3" fill="#397D64" stroke="#397D64" stroke-width="1"/>
+<text x="1128" y="571" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#397D64" text-anchor="end" opacity="1">+$0.002M</text>
+<rect x="804" y="631" width="332" height="44" rx="7" fill="#FFF7E2" stroke="#E8D8A8" stroke-width="1"/>
+<text x="820" y="658" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#B4740F" text-anchor="start" opacity="1">Priority: recover revenue, then control payroll.</text>
+</svg>
